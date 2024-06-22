@@ -1,7 +1,0 @@
-C:\Users\poojakul\Documents\assignment 2\sum of two interger\sum of two interger\bin\Debug\sum of two interger.exe.config
-C:\Users\poojakul\Documents\assignment 2\sum of two interger\sum of two interger\bin\Debug\sum of two interger.exe
-C:\Users\poojakul\Documents\assignment 2\sum of two interger\sum of two interger\bin\Debug\sum of two interger.pdb
-C:\Users\poojakul\Documents\assignment 2\sum of two interger\sum of two interger\obj\Debug\sum of two interger.csproj.AssemblyReference.cache
-C:\Users\poojakul\Documents\assignment 2\sum of two interger\sum of two interger\obj\Debug\sum of two interger.csproj.CoreCompileInputs.cache
-C:\Users\poojakul\Documents\assignment 2\sum of two interger\sum of two interger\obj\Debug\sum of two interger.exe
-C:\Users\poojakul\Documents\assignment 2\sum of two interger\sum of two interger\obj\Debug\sum of two interger.pdb
