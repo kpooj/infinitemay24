@@ -16,7 +16,12 @@ namespace program
                 marks[i] = int.Parse(Console.ReadLine());
             }
 
+            
             int totalMarks = marks.Sum();
+
+            Console.WriteLine("Average marks is {0}",marks.Average());
+            Console.WriteLine("Minimum marks is {0}",marks.Min());
+            Console.WriteLine("Maximum marks is {0}",marks.Max());
 
             return totalMarks;
         }

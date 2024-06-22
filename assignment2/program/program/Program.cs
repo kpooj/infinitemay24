@@ -35,7 +35,6 @@ namespace program
             Console.WriteLine("program4");
             Console.WriteLine("Total marks is {0}", program4.MarksValue());
 
-
             Console.ReadLine();
         }
     }
