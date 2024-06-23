@@ -35,6 +35,16 @@ namespace program
             Console.WriteLine("program4");
             Console.WriteLine("Total marks is {0}", program4.MarksValue());
 
+            Console.WriteLine("program5");
+            Console.WriteLine("Length of string  is {0}", program5.length());
+
+            Console.WriteLine("program6");
+            Console.WriteLine("{0}", program6.reverselength());
+
+            Console.WriteLine("program7");
+            Console.WriteLine("{0}", program7.sizeofwords());
+
+
             Console.ReadLine();
         }
     }
