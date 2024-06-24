@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace program
 {
+    
     public class program3
     {
+        //Average value of Array elements
         public static int Avgcalc()
         {
             int[] numbers = new int[] { 11, 52, 43, 64, 97 };
@@ -20,6 +22,7 @@ namespace program
             return valuesum / numbers.Count();
 
         }
+        //Maximum value in an array
         public static int maxvalue()
         {
             int[] numbers = new int[] { 11, 52, 43, 64, 97 };
@@ -35,7 +38,7 @@ namespace program
             return valuesum;
 
         }
-
+        //Maximum value in an array
         public static int minvalue()
         {
             int[] numbers = new int[] { 11, 52, 43, 64, 97 };

@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace program
 {
+    //Write a program in C# to accept two words from user and find out if they are same.
     public class program7
 
     {

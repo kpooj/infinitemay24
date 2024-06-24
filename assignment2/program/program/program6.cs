@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace program
 {
+    //Write a program in C# to accept a word from the user and display the reverse of it.
     public class program6
     {
         public static String reverselength()

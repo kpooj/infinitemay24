@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace program
 {
+    //Write a program in C# to accept a word from the user and display the length of it.
     public class program5
     {
         public static int length()

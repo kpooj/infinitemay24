@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace program
 {
+    //Write a C# Sharp program to read any day number as an integer and display the name of the day as a word.
+
     public class program2
     {
 
